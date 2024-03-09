@@ -1,6 +1,6 @@
 # 🎤 Authors & Credits
 
-> _<mark style="color:yellow;">I'm sincerely grateful for the opportunity to share the Musico Guide with you. Your support enables me to combine my passions for music, technology, and design, offering a unique resource that I hope will inspire and educate. Thank you for allowing me to contribute to our community's musical journey. I look forward to the continued adventure and the shared experiences ahead.</mark>_
+> _<mark style="color:yellow;">I'm sincerely grateful for the opportunity to write & share the</mark>_ _<mark style="color:purple;">**Musico Users Guide**</mark> <mark style="color:yellow;">with you. Your support enabled me to combine my passions for music, technology, and design, offering a unique resource that I hope will educate and inform in the days ahead. Thank you for allowing me to contribute to the community's musical journey. I look forward to the continued adventure and the shared experiences ahead!</mark>_
 
 
 

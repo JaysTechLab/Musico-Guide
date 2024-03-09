@@ -14,11 +14,11 @@
   * [🎶 Musico Filters](overview/getting-started-with-musico/musico-filters.md)
   * [🎙️ Admin Commands](overview/getting-started-with-musico/admin-commands.md)
 
-## 🎶 Musico Premium
+## 🎶 Musico & Premium+
 
-* [🔧 Initial Setup](musico-premium/initial-setup/README.md)
-  * [🧑 Musico DJ Role](musico-premium/initial-setup/musico-dj-role/README.md)
-    * [📝 DJ Commands](musico-premium/initial-setup/musico-dj-role/dj-commands.md)
+* [🔧 Initial Setup](musico-and-premium+/initial-setup/README.md)
+  * [🧑 Musico DJ Role](musico-and-premium+/initial-setup/musico-dj-role/README.md)
+    * [📝 DJ Commands](musico-and-premium+/initial-setup/musico-dj-role/dj-commands.md)
 
 ## 🤖 Musico Customs
 

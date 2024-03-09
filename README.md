@@ -69,14 +69,14 @@ Everything you need is right at your fingertips. Set your server\&#39s prefix, c
 
 We've put together some helpful guides for you to get setup quickly and easily.
 
-{% content-ref url="musico-premium/initial-setup/" %}
-[initial-setup](musico-premium/initial-setup/)
+{% content-ref url="musico-and-premium+/initial-setup/" %}
+[initial-setup](musico-and-premium+/initial-setup/)
 {% endcontent-ref %}
 
-{% content-ref url="musico-premium/initial-setup/musico-dj-role/dj-commands.md" %}
-[dj-commands.md](musico-premium/initial-setup/musico-dj-role/dj-commands.md)
+{% content-ref url="musico-and-premium+/initial-setup/musico-dj-role/dj-commands.md" %}
+[dj-commands.md](musico-and-premium+/initial-setup/musico-dj-role/dj-commands.md)
 {% endcontent-ref %}
 
-{% content-ref url="musico-premium/initial-setup/musico-dj-role/" %}
-[musico-dj-role](musico-premium/initial-setup/musico-dj-role/)
+{% content-ref url="musico-and-premium+/initial-setup/musico-dj-role/" %}
+[musico-dj-role](musico-and-premium+/initial-setup/musico-dj-role/)
 {% endcontent-ref %}

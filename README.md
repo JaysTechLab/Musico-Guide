@@ -19,15 +19,15 @@ layout:
 
 # 👋 Welcome To Musico
 
-## Take Your Discord to the next level !
+## Musico Bot
 
 **Listen to your favourite music on discord with your friends! Edit the music with audio filters, custom playlists, autoplay, 24/7 and much more!**
 
-### Why Musico?
+### Why Use Musico?
 
 Musico is one of the best discord music bot that you can find and provides free features which are paid in other bots! Let's have a look into Musico's features
 
-## Custom Bot Creation Made Easy.
+## Custom Bot Creation Made Easy!
 
 Customize your own bot like never before with the MusicoBot. Think of it as your Server's unique music bot. You're in charge, and Musico follows your lead!.
 
@@ -36,6 +36,10 @@ Customize your own bot like never before with the MusicoBot. Think of it as your
 ### WEB PLAYER
 
 Manage the music directly from the Dashboard, get rid of duplicate tracks, decide what to skip with your friends, and more.
+
+{% hint style="info" %}
+#### _<mark style="color:blue;">Coming soon! (Still Under Development)</mark>_
+{% endhint %}
 
 <figure><img src=".gitbook/assets/player-demo.webp" alt=""><figcaption></figcaption></figure>
 
@@ -49,6 +53,14 @@ Everything you need is right at your fingertips. Set your server\&#39s prefix, c
 
 ## Quick links
 
+{% content-ref url="welcome-to-musico/change-log.md" %}
+[change-log.md](welcome-to-musico/change-log.md)
+{% endcontent-ref %}
+
+{% content-ref url="overview/musico-features.md" %}
+[musico-features.md](overview/musico-features.md)
+{% endcontent-ref %}
+
 {% content-ref url="overview/getting-started-with-musico/" %}
 [getting-started-with-musico](overview/getting-started-with-musico/)
 {% endcontent-ref %}
@@ -57,14 +69,14 @@ Everything you need is right at your fingertips. Set your server\&#39s prefix, c
 
 We've put together some helpful guides for you to get setup quickly and easily.
 
-{% content-ref url="musico-bot-setup/initial-setup/" %}
-[initial-setup](musico-bot-setup/initial-setup/)
+{% content-ref url="musico-premium/initial-setup/" %}
+[initial-setup](musico-premium/initial-setup/)
 {% endcontent-ref %}
 
-{% content-ref url="musico-bot-setup/initial-setup/musico-dj-role/dj-commands.md" %}
-[dj-commands.md](musico-bot-setup/initial-setup/musico-dj-role/dj-commands.md)
+{% content-ref url="musico-premium/initial-setup/musico-dj-role/dj-commands.md" %}
+[dj-commands.md](musico-premium/initial-setup/musico-dj-role/dj-commands.md)
 {% endcontent-ref %}
 
-{% content-ref url="musico-bot-setup/initial-setup/musico-dj-role/" %}
-[musico-dj-role](musico-bot-setup/initial-setup/musico-dj-role/)
+{% content-ref url="musico-premium/initial-setup/musico-dj-role/" %}
+[musico-dj-role](musico-premium/initial-setup/musico-dj-role/)
 {% endcontent-ref %}

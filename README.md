@@ -53,8 +53,8 @@ Everything you need is right at your fingertips. Set your server\&#39s prefix, c
 
 ## Quick links
 
-{% content-ref url="welcome-to-musico/change-log.md" %}
-[change-log.md](welcome-to-musico/change-log.md)
+{% content-ref url="readme/change-log.md" %}
+[change-log.md](readme/change-log.md)
 {% endcontent-ref %}
 
 {% content-ref url="overview/musico-features.md" %}

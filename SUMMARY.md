@@ -1,8 +1,8 @@
 # Table of contents
 
 * [👋 Welcome To Musico](README.md)
-  * [📙 Change Log](welcome-to-musico/change-log.md)
-  * [✨ Premium Perks](welcome-to-musico/premium-perks.md)
+  * [📙 Change Log](readme/change-log.md)
+  * [✨ Premium Perks](readme/premium-perks.md)
 
 ## 👀 Overview
 

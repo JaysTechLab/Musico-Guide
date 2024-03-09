@@ -22,4 +22,8 @@
 
 ## 🤖 Musico Customs
 
-* [🛠️ Setup & Configuration](musico-customs/setup-and-configuration.md)
+* [🛠️ Custom Bot Setup & Configuration](musico-customs/custom-bot-setup-and-configuration.md)
+
+***
+
+* [🎤 Authors & Credits](authors-and-credits.md)

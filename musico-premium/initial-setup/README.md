@@ -3,6 +3,23 @@ description: >-
   This page description provides a comprehensive overview of the setup process
   for Musico, guiding users through each step to ensure a smooth and customized
   experience.
+cover: >-
+  ../../.gitbook/assets/untug_httpss.mj.runfsdSeUbR5oY_httpss.mj.run_y6_rFYy_ro_httpss._683a7f8b-d28c-4828-8a39-78d1a5d9df5a.png
+coverY: -36
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # 🔧 Initial Setup

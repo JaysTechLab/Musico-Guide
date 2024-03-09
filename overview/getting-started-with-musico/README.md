@@ -1,5 +1,11 @@
 ---
+cover: >-
+  ../../.gitbook/assets/untug_The_bold_3D_Text_Getting_Started_above_Turntables__Stereo_e767a976-903d-4185-878b-a043bac5313e.png
+coverY: 37.93325092707046
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

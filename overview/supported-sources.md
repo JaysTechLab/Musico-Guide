@@ -1,5 +1,11 @@
 ---
+cover: >-
+  ../.gitbook/assets/untug_The_3D_Text_Supported_Sources_Cinimatic_View_YouTube_Logo_454b58bf-05fd-4e82-9c36-7a3553d43186.png
+coverY: 0
 layout:
+  cover:
+    visible: true
+    size: full
   title:
     visible: true
   description:

@@ -126,13 +126,13 @@ Copy and paste into your browser to invite your Music Bot to your Discord Server
 
 <mark style="color:orange;">**Outlined in Orange:**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">Here you customize your Bot</mark> <mark style="color:orange;"></mark><mark style="color:orange;">**Image/Icon/Avatar**</mark> <mark style="color:orange;"></mark><mark style="color:orange;">and its</mark> <mark style="color:orange;"></mark>_<mark style="color:orange;">**Usernam**</mark>_<mark style="color:orange;">e</mark>
 
-<mark style="color:green;">**Outlined in Green:**</mark>  <mark style="color:green;"></mark><mark style="color:green;">Is the Activity and Text it displays in your server</mark>
+<mark style="color:lightgreen;">**Outlined in Green:**</mark>  <mark style="color:green;"></mark><mark style="color:green;">Is the Activity and Text it displays in your server</mark>
 
 <mark style="color:red;">**Outlined in Red**</mark><mark style="color:red;">:  Change the Status of the Bot to</mark>  <mark style="color:red;"></mark><mark style="color:red;">**Offline or Online**</mark>
 
 <figure><img src="../.gitbook/assets/Custom DashBoard.png" alt=""><figcaption><p>Bot Section Explained</p></figcaption></figure>
 
-<mark style="color:blue;">**Outlined In Blue: You can Select the Servers that  will be activated under your Subscription**</mark>
+<mark style="color:lightblue;">**Outlined In Blue: You can Select the Servers that  will be activated under your Subscription**</mark>
 
 ## [<mark style="color:yellow;">Custom Musico Settings Tab</mark>](https://customs.musicobot.xyz/dashboard)
 

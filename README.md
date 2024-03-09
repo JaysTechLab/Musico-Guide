@@ -1,6 +1,6 @@
 ---
-cover: .gitbook/assets/Musico Satic.png
-coverY: 0
+cover: .gitbook/assets/8d9afd8ea1443d98e92950b6fe38a847.webp
+coverY: -117.77066666666666
 layout:
   cover:
     visible: true
